@@ -1,2 +1,2 @@
 # SQL-Projects
-Data explorations of varying datasets.
+Data explorations independent projects.
